@@ -15,5 +15,6 @@ To build, simply:
 2. Runs `npm test` to run Mocha and execute the unit tests.
 3. Enjoy a nice cup a joe
 4. Get back to work! :)
-5. Go to Hawaii
+5. Go to Hawaii.
+6. Buy some land
 
